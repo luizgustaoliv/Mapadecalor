@@ -1,3 +1,7 @@
+# Link do vídeo
+
+https://drive.google.com/file/d/1nRMHs02v2C3kNyv5Dt3IFZvH3Ar_9Lsi/view?usp=drivesdk
+
 # Mapadecalor
 
 Este projeto realiza a coleta contínua da potência do sinal WiFi (RSSI) em dBm utilizando um ESP32, exibindo os valores na porta serial da Arduino IDE e enviando-os para uma plataforma IoT via MQTT.
